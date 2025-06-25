@@ -1,0 +1,16 @@
+Return-Path: <support@paypa1.com>
+Received: from mail.phishhost.ru (unknown [203.0.113.45])
+    by mail.yourcompany.com (Postfix) with ESMTP id A1B2C3D4
+    for <you@example.com>; Mon, 23 Jun 2025 14:01:22 +0530 (IST)
+Received-SPF: Fail (mail.yourcompany.com: domain of paypa1.com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results: mail.yourcompany.com;
+    dkim=fail reason="signature verification failed" header.d=paypa1.com;
+    spf=fail (sender IP is 203.0.113.45) smtp.mailfrom=support@paypa1.com
+From: "PayPal Support" <support@paypa1.com>
+Reply-To: noreply@scamverifylogin.co
+To: you@example.com
+Subject: 🚨 Urgent: Your Account Has Been Suspended!
+Date: Mon, 23 Jun 2025 14:01:18 +0530
+Message-ID: <f84hs829df2@phishhost.ru>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
